@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thejohnbradley" alt="thejohnbradley" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](thejohnbradley.net)
+- 🔭 I’m currently working on [My Portfolio](https://thejohnbradley.net)
 
 - 🌱 I’m currently learning **Docker**
 
-- 👨‍💻 All of my projects are available at [thejohnbradley.net/projects](thejohnbradley.net/projects)
+- 👨‍💻 All of my projects are available at [thejohnbradley.net/projects](https://thejohnbradley.net/projects)
 
-- 📝 I regularly write articles on [thejohnbradley.net/blog](thejohnbradley.net/blog)
+- 📝 I regularly write articles on [thejohnbradley.net/blog](https://thejohnbradley.net/blog)
 
 - 💬 Ask me about **react and typescript.**
 
 - 📫 How to reach me **send@thejohnbradley.net**
 
-- 📄 Know about my experiences [thejohnbradley.net/resume](thejohnbradley.net/resume)
+- 📄 Know about my experiences [thejohnbradley.net/resume](https://thejohnbradley.net/resume)
 
 - ⚡ Fun fact **I'm a self taught developer**
 
