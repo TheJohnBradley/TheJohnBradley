@@ -1,16 +1,7 @@
-# 👋 Hello!
+🚀 Sleek, Professional README & Stat Cards
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 24px;"> <a href="https://thejohnbradley.net?ref=readme"> <img src="./onlineprot.png" alt="Screenshot of thejohnbradley.net" width="480" style="border-radius: 20px; box-shadow: 0 8px 32px 0 rgba(30, 41, 59, 0.22); margin-bottom: 12px; transition: box-shadow 0.3s cubic-bezier(.4,0,.2,1);" /> </a> <a href="https://thejohnbradley.net?ref=readme"> <b style="font-size: 1.15rem; color: #2563eb;">Find my projects and writings here</b> </a> </div>
+🌟 Statistics
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 22px; justify-content: center; align-items: stretch;"> <a href="https://github.com/thejohnbradley?tab=repositories"> <img src="https://github-readme-stats.vercel.app/api?username=thejohnbradley&show_icons=true&theme=radical&count_private=true&hide=contribs&border_radius=18&bg_color=30,e0e7ef,3b82f6,1e293b&title_color=2563eb&icon_color=3b82f6&text_color=1e293b" alt="GitHub Stats" height="170" style="border-radius: 18px; box-shadow: 0 4px 24px 0 rgba(30, 41, 59, 0.13); margin: 8px;" /> </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejohnbradley&layout=compact&theme=radical&hide=php&langs_count=6&border_radius=18&bg_color=30,e0e7ef,3b82f6,1e293b&title_color=2563eb&icon_color=3b82f6&text_color=1e293b" alt="Top Languages" height="170" style="border-radius: 18px; box-shadow: 0 4px 24px 0 rgba(30, 41, 59, 0.13); margin: 8px;" />
 
-You can call me **John**. I work with NextJS Ecosystem, and write to teach people how to rebuild and redefine fundamental concepts through mental models.
-
-| thejohnbradley.net |
-|:-:|
-|<a href="https://thejohnbradley.net?ref=readme"><img width="400" alt="Screenshot of thejohnbradley.net" src="./onlineprot.png"></a><br /><a href="https://thejohnbradley.net?ref=readme">Find my projects and writings here</a> | 
-
-
-## Statistics
-
-<div>
-  <a href="https://github.com/thejohnbradley?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=thejohnbradley&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theodorusclarence&layout=compact&theme=react&hide=php&langs_count=6" />
-  <a href="https://wakatime.com/@thejohnbradley"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=thejohnbradley&layout=compact&theme=react&langs_count=6" /></a>
-</div>
+<a href="https://wakatime.com/@thejohnbradley"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thejohnbradley&layout=compact&theme=radical&langs_count=6&border_radius=18&bg_color=30,e0e7ef,3b82f6,1e293b&title_color=2563eb&icon_color=3b82f6&text_color=1e293b" alt="Wakatime Stats" height="170" style="border-radius: 18px; box-shadow: 0 4px 24px 0 rgba(30, 41, 59, 0.13); margin: 8px;" /> </a> </div>
