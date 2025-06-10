@@ -1,4 +1,4 @@
-<div align="center"><img src="https://pplx-res.cloudinary.com/image/private/user_uploads/31350043/0613ef44-919b-41c9-87ea-20b558702b52/onlineprot.jpg" alt="The John Bradley Online Portfolio" width="600" style="border-radius: 32px; box-shadow: 0 12px 48px 0 rgba(30,41,59,0.45); margin-bottom: 30px;"/>
+<div align="center"><img src="./onlineprot.png" alt="The John Bradley Online Portfolio" width="600" style="border-radius: 32px; box-shadow: 0 12px 48px 0 rgba(30,41,59,0.45); margin-bottom: 30px;"/>
 <a href="https://thejohnbradley.net?ref=readme"> <img src="https://img.shields.io/badge/Online%20Portfolio-18181b?style=for-the-badge&logo=vercel&logoColor=white" alt="Online Portfolio Badge" style="margin:8px 0 18px 0;"/> </a>
 <span style="font-size:2.7rem; font-weight:800; color:#fff; letter-spacing:-1px; text-shadow:0 2px 16px rgba(30,41,59,0.18);">The John Bradley</span>
 
