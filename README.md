@@ -4,7 +4,7 @@ You can call me **John**. I work with NextJS Ecosystem, and write to teach peopl
 
 | thejohnbradley.net |
 |:-:|
-|<a href="https://thejohnbradley.net?ref=readme"><img width="400" alt="Screenshot of thejohnbradley.net" src="https://github.com/user-attachments/assets/1a864a57-169d-45d2-81fa-438bc0e77474"></a><br /><a href="https://thejohnbradley.net?ref=readme">Find my projects and writings here</a> | 
+|<a href="https://thejohnbradley.net?ref=readme"><img width="400" alt="Screenshot of thejohnbradley.net" src="./onlineprot.png"></a><br /><a href="https://thejohnbradley.net?ref=readme">Find my projects and writings here</a> | 
 
 
 ## Statistics
